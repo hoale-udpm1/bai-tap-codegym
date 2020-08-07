@@ -11,6 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2719efb-c23b-4339-b032-ebdc7bc2cdf0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/form đăng kí người dùng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form đơn giản 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form đơn giản 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gg.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +41,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,6 +63,7 @@
       <workItem from="1596767575235" duration="201000" />
       <workItem from="1596767790252" duration="180000" />
       <workItem from="1596767994501" duration="1575000" />
+      <workItem from="1596769900099" duration="8725000" />
     </task>
     <servers />
   </component>
@@ -74,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596767438715">
