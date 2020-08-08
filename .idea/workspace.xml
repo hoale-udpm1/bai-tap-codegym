@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2719efb-c23b-4339-b032-ebdc7bc2cdf0" name="Default Changelist" comment="" />
+    <list default="true" id="e2719efb-c23b-4339-b032-ebdc7bc2cdf0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/survey khách hàng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tao ban co vua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tao cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/tao cv.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +32,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fkWpNTf12butDtci8RZPalT0db" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,7 +65,8 @@
       <workItem from="1596767575235" duration="201000" />
       <workItem from="1596767790252" duration="180000" />
       <workItem from="1596767994501" duration="1575000" />
-      <workItem from="1596769900099" duration="9223000" />
+      <workItem from="1596769900099" duration="17248000" />
+      <workItem from="1596903728304" duration="1772000" />
     </task>
     <servers />
   </component>
