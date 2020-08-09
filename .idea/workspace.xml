@@ -11,10 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2719efb-c23b-4339-b032-ebdc7bc2cdf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/survey khách hàng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tao ban co vua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thoi khoa bieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thoikhoabieu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thoikhoabieu2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thoikhoabieu2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tao cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/tao cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tao ban co vua.html" beforeDir="false" afterPath="$PROJECT_DIR$/tao ban co vua.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -44,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +70,8 @@
       <workItem from="1596767790252" duration="180000" />
       <workItem from="1596767994501" duration="1575000" />
       <workItem from="1596769900099" duration="17248000" />
-      <workItem from="1596903728304" duration="1772000" />
+      <workItem from="1596903728304" duration="4123000" />
+      <workItem from="1596954220903" duration="2225000" />
     </task>
     <servers />
   </component>
